@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>QUnit Example</title>
+  <link rel="stylesheet" href="/static/scripts/lib/codemirror-3.0/lib/codemirror.css">
+  <link rel="stylesheet" href="/static/styles/jqueryui/smoothness/jquery-ui-1.10.1.custom.min.css">
+  <link rel="stylesheet" href="/static/styles/main.css">
+  <script src="/static/scripts/lib/codemirror-3.0/lib/codemirror.js"></script>
+  <script src="/static/scripts/lib/codemirror-3.0/mode/clike/clike.js"></script>
+  <script src="/static/scripts/lib/codemirror-3.0/lib/util/matchbrackets.js"></script>
+  <script src="/static/scripts/lib/threejs/three.min.js"></script>
+  <script src="/static/scripts/lib/threejs/controls/FlyControls.js"></script>
+  <script src="/static/scripts/lib/threejs/Detector.js"></script>
+  <script src="/static/scripts/lib/jquery-1.9.1.min.js"></script>
+  <script src="/static/scripts/lib/jquery-ui-1.10.1.custom.min.js"></script>
+  <script src="/static/scripts/lib/tween.min.js"></script>
+  <script type="text/javascript" src="/static/scripts/irunaround.editor.js"></script>
+  <script type="text/javascript" src="/static/scripts/irunaround.backend.js"></script>
+  <script type="text/javascript" src="/static/scripts/irunaround.graphics.js"></script>
+  <script type="text/javascript" src="/static/scripts/irunaround.js"></script>
+  <script type="text/javascript" src="/static/scripts/main.js"></script>
+
+  <link rel="stylesheet" href="qunit/qunit-1.10.0.css">
+  <script src="qunit/qunit-1.10.0.js"></script>
+  <script src="qunit/tests.js"></script>
+</head>
+<body>
+  <div id="qunit"></div>
+  <div id="qunit-fixture">
+    <h1 style="text-align: center;">Runaround parser test</h1>
+    <form id="codeForm" action="/parse" method="post">
+      <input type="submit" value="Parse" />
+      <button type="button" id="playButton">Play</button>
+      <button type="button" id="pauseButton">Pause</button>
+      <div id="stepSpeed"></div>
+      <textarea id="editor" name="code">#include <stdio.h>
+  #include <conio.h>
+
+  int fact(int n)
+  {
+    if (n < 2)
+      return 1;
+    return fact(n - 1) * n;
+  }
+
+  fact(4);</textarea>
+    </form>
+    <div id="screen"></div>
+  </div>
+
+
+
+  <script text="javascript">
+  	test('main', function() {
+  		notEqual(irunaround.init('editor', 'screen', 640, 360, 3), "bad");
+  	});
+  </script>
+</body>
+</html>

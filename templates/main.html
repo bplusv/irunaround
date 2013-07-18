@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<head>
+	<title>Welcome to Runaround</title>
+	<link rel="stylesheet" href="/static/scripts/lib/codemirror-3.12/lib/codemirror.css">
+    <link rel="stylesheet" href="/static/scripts/lib/codemirror-3.12/theme/solarized.css">
+	<!-- <link rel="stylesheet" id="themecss" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/{{ theme }}/jquery-ui.css"> -->
+	<link rel="stylesheet" id="themecss" href="/static/styles/jquery-ui/flick.css">
+	<link rel="stylesheet" href="/static/styles/main.css">
+	<script src="/static/scripts/lib/codemirror-3.12/lib/codemirror.js"></script>
+	<script src="/static/scripts/lib/codemirror-3.12/mode/clike/clike.js"></script>
+	<script src="/static/scripts/lib/codemirror-3.12/addon/edit/matchbrackets.js"></script>
+	<script src="/static/scripts/lib/threejs/three.min.js"></script>
+	<script src="/static/scripts/lib/threejs/controls/FlyControls.js"></script>
+	<script src="/static/scripts/lib/threejs/controls/TrackballControls.js"></script>
+	<script src="/static/scripts/lib/threejs/fonts/helvetiker_regular.typeface.js"></script>
+
+	<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+	<!-- <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script> -->
+	<script src="/static/scripts/lib/jquery.min.js"></script>
+	<script src="/static/scripts/lib/jquery-ui.min.js"></script>
+	<script src="/static/scripts/lib/tween.min.js"></script>
+	<script type="text/javascript" src="/static/scripts/irunaround.editor.js"></script>
+	<script type="text/javascript" src="/static/scripts/irunaround.backend.js"></script>
+	<script type="text/javascript" src="/static/scripts/irunaround.graphics.tree.js"></script>
+	<script type="text/javascript" src="/static/scripts/irunaround.graphics.world.js"></script>
+	<script type="text/javascript" src="/static/scripts/irunaround.js"></script>
+	<script type="text/javascript" src="/static/scripts/main.js"></script>
+</head>
+<body>
+<div id="loadingScreen">
+	<img id="loadingSpinner" src="/static/images/loaderSpinner.gif" />
+	<div id="loadingText">Loading...</div>
+</div>
+<div>
+	<div class="title">
+		<h1 id="appTitle">Runaround Parser</h1>
+		<div id="codeExamplesContainer">
+			<span id="codeExamplesTitle">Ejemplos:</span>
+			<span id="codeExamples">
+			    <input type="radio" id="codeExample1" name="codeExample" checked="checked" /><label for="codeExample1">Precedencia</label>
+			    <input type="radio" id="codeExample2" name="codeExample" /><label for="codeExample2">Condiciones</label>
+			    <input type="radio" id="codeExample3" name="codeExample" /><label for="codeExample3">Ciclos</label>
+			    <input type="radio" id="codeExample4" name="codeExample" /><label for="codeExample4">Funciones</label>
+			    <input type="radio" id="codeExample5" name="codeExample" /><label for="codeExample5">Factorial</label>
+			    <input type="radio" id="codeExample6" name="codeExample" /><label for="codeExample6">Fibonacci</label>
+	  		</span>
+	  		<div style="clear:both;"></div>
+  		</div>
+		<div style="clear:both;"></div>
+  	</div>
+	<div>
+		<form id="codeForm" action="/parse" method="post">
+			<div id="controls">
+				<div id= "buttons">
+					<button type="button" id="playButton">Play</button>
+					<button type="button" id="pauseButton">Pause</button>
+					<button type="button" id="editButton">Edit</button>
+					<div style="clear:both;"></div>
+				</div>
+				<div id="stepSpeed"></div>
+			</div>
+			<textarea id="editor" name="code"></textarea>
+		</form>
+		<div id="tabs" class="screen tabs-bottom">
+		  <ul>
+		    <li><a href="#tabs-tree">Tree</a></li>
+		    <li><a href="#tabs-world">World</a></li>
+		  </ul>
+		  <div class="tabs-spacer"></div>
+		  <div id="tabs-tree">
+		    <div id="tree-graphics" class="graphics"></div>
+		  </div>
+		  <div id="tabs-world">
+		    <div id="world-graphics" class="graphics"></div>
+		  </div>
+		</div>
+		<div style="clear:both;"></div>
+		<div id="dataContainer">
+			<div id="dataInputContainer">
+				<div id="inputArrow"></div>
+				<form id="dataInputForm" method="post" action="">
+					<input type="text" id="dataInput" name="dataInput" disabled="disabled" value="" />
+					<input type="submit" id="dataInputButton" value="Input" />
+				</form>
+			</div>
+			<div id="dataOutputContainer">
+				<div id="dataOutputHeader">Output:</div>
+				<div id="dataOutput"></div>
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+		<div style="clear:both;"></div>
+	</div>
+</div>
+</body>
+</html>

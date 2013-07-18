@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"found",
+				"foundCallback"
+			],
+			[
+				"foun",
+				"foundCallback"
+			],
+			[
+				"loo",
+				"lookUpBack"
+			],
+			[
+				"look",
+				"lookUpPlatforms"
+			],
+			[
+				"scope",
+				"scopePlatformsStack"
+			],
+			[
+				"get",
+				"getIdentifierValue"
+			],
+			[
+				"prev",
+				"prevAnimationElapsed"
+			],
+			[
+				"animation",
+				"animationElapsed"
+			],
+			[
+				"anim",
+				"animationElapsed"
+			],
+			[
+				"scoe",
+				"scopePlatformsStack"
+			],
+			[
+				"dra",
+				"drawPlatformMesh"
+			],
+			[
+				"litera",
+				"literalText3d"
+			],
+			[
+				"Box",
+				"BoxBehaviours"
+			],
+			[
+				"on",
+				"onAnimationEnd"
+			],
+			[
+				"came",
+				"cameraInitialPosition"
+			],
+			[
+				"env",
+				"envUpdate"
+			],
+			[
+				"com",
+				"p_compound_statement_1"
+			],
+			[
+				"b",
+				"buchheim"
+			],
+			[
+				"h",
+				"HEIGHT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Documents/landoflisp/test.lsp",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Lisp.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"ssli",
+				"Set Syntax: Lisp"
+			],
+			[
+				"sjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyntaxlisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"setsyntaxjavascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sets",
+				"Set Syntax: Java"
+			],
+			[
+				"set:py",
+				"Set Syntax: Python"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ssgr",
+				"Set Syntax: Groovy"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Documents/landoflisp/test.lsp",
+		"/D/Documents/test.lsp",
+		"/D/Downloads/1/Universal_Uberoid_WM8650_v12_Tablet_Compatibility_List.txt",
+		"/D/Downloads/89/changelog.txt",
+		"/C/Users/lu/AppData/Local/Temp/7zOE204.tmp/epad_256M_nand_old_android_2.2_0326.txt",
+		"/C/Users/lu/AppData/Local/Temp/7zOA246.tmp/android_2.2_512_4GB_10_0614_3V.txt",
+		"/D/Downloads/12/wmt_scriptcmd",
+		"/G/New Text Document.txt",
+		"/D/Repository/mercurial/anotherbitmap/blog.py",
+		"/D/Repository/mercurial/anotherbitmap/templates/welcome.html",
+		"/G/ZT 180 - 2.2 Latest/Instructions.txt",
+		"/C/Users/lu/Desktop/tablet/The Way for upgrade  on ZT-180 and announcements.txt",
+		"/C/Users/lu/Desktop/tablet/关于ZT-180 升级的方法和注意事项.txt",
+		"/D/Downloads/CS7 + Traductor/Camtasia Studio 7 Full/Serial.txt",
+		"/D/Downloads/ZT 180 - 2.2 Latest/Instructions.txt",
+		"/C/Users/lu/Dropbox/td.txt",
+		"/D/Downloads/landoflisp/guess.lisp",
+		"/D/Repository/mercurial/irunaround/irunaround/cgrammar.py",
+		"/D/Repository/mercurial/irunaround/static/scripts/irunaround.backend.js",
+		"/D/Repository/mercurial/irunaround/irunaround/ctokens.py",
+		"/D/Downloads/landoflisp/wizards_game.lisp",
+		"/D/Repository/mercurial/irunaround/static/scripts/irunaround.graphics.world.js",
+		"/D/Repository/mercurial/irunaround/static/scripts/irunaround.js",
+		"/D/Repository/mercurial/irunaround/pymag_trees/gen.py",
+		"/D/Downloads/slime-2013-04-05/README",
+		"/C/Users/lu/AppData/Roaming/.emacs",
+		"/D/Documents/school/td.txt",
+		"/D/Documents/hello.lisp",
+		"/C/Users/lu/AppData/Roaming/Sublime Text 2/Packages/User/Lisp.sublime-build",
+		"/C/Users/lu/AppData/Roaming/Sublime Text 2/Packages/User/lisp.sublime-build",
+		"/D/Repository/mercurial/irunaround/irunaround/frontend.py",
+		"/D/Documents/school/TODO.txt",
+		"/C/Users/lu/Dropbox/log.txt",
+		"/D/Applications/apps/Winrar_-3.8pro/Winrar -3.8pro/Read This.txt",
+		"/C/Users/lu/Desktop/test.html",
+		"/D/Repository/mercurial/irunaround/static/styles/main.css",
+		"/D/Repository/mercurial/irunaround/static/scripts/irunaround.editor.js",
+		"/D/Repository/mercurial/irunaround/static/scripts/main.js",
+		"/D/Repository/mercurial/irunaround/templates/main.html",
+		"/C/Users/lu/Dropbox/udacity/Programming Languages/student-browser/htmlinterp.py",
+		"/C/Users/lu/Dropbox/udacity/Programming Languages/student-browser/jsinterp.py",
+		"/D/Repository/mercurial/irunaround/static/scripts/irunaround.graphics.tree.js",
+		"/D/Documents/todo.txt",
+		"/C/wamp/www/Ag/com/views/main/listar.php",
+		"/C/wamp/www/Ag/conf/configuration.xml",
+		"/C/wamp/www/Ag/com/views/main/index.php",
+		"/C/wamp/www/Ag/com/models/test.xml",
+		"/C/wamp/www/Ag/com/controllers/mainController.php",
+		"/C/wamp/www/Ag/conf/configuration.php",
+		"/C/wamp/www/Ag/com/models/libro.xml",
+		"/C/wamp/www/Ag/com/models/Libro.xml",
+		"/C/Users/lu/Dropbox/udacity/Programming Languages/finale/finale.py",
+		"/C/Users/lu/Desktop/test.js",
+		"/D/Repository/mercurial/irunaround/static/scripts/lib/codemirror-3.12/theme/solarized.css",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_4.C",
+		"/D/Repository/mercurial/irunaround/static/scripts/lib/codemirror-3.12/addon/hint/html-hint.js",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_6.C",
+		"/D/Documents/school/old/Programacion I/sources/AREACIR.C",
+		"/D/Downloads/tween.js-master/src/Tween.js",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap2/P2_1.C",
+		"/C/Users/lu/AppData/Local/Temp/7zO172.tmp/EJER1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Instr. goto break continue exit/EXIT.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Funciones/PASO_VAL.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Funciones/PASO_REF.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Funciones/EJEM_FUN.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Funciones/EJEM_FU2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Cap16/P16_2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/Cap16/P16_1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/STRUCT.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_7.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_6.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_5.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_4.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_3.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap11/P11_1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_4B.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_4A.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_4.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_3.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_2A.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/P9_1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap9/EJEM1_PT.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap8/P8_4.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap8/P8_3.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap8/P8_2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap8/P8_1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap6/P6_5.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap6/P6_4.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap6/P6_3.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap6/P6_2B.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap6/P6_2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap6/P6_1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_6C.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_6B.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_5.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_3.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_3B.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_2.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap4/P4_1.C",
+		"/D/Documents/school/old/Programacion I/ex. sources/cap3/P3_1.C",
+		"/D/Documents/school/old/Programacion I/sources/matrices/EJER1.C",
+		"/D/Documents/school/old/Programacion I/sources/triangulo 2.C",
+		"/D/Documents/school/old/Programacion I/sources/triangulo 1.C",
+		"/D/Documents/school/old/Programacion I/sources/PROMEDIO.C",
+		"/D/Documents/school/old/Programacion I/sources/POINTER.C",
+		"/D/Documents/school/old/Programacion I/sources/MATRIZ.C",
+		"/D/Documents/school/old/Programacion I/sources/FIRST.C",
+		"/D/Documents/school/old/Programacion I/sources/FIG_GEO.C",
+		"/D/Documents/school/old/Programacion I/sources/EJER4v2.C",
+		"/D/Documents/school/old/Programacion I/sources/EJER4.C",
+		"/D/Documents/school/old/Programacion I/sources/EJER3.C",
+		"/D/Documents/school/old/Programacion I/sources/EJER2.C",
+		"/D/Documents/school/old/Programacion I/sources/EJER1.C",
+		"/D/Repository/mercurial/lel/web/js/controller.js",
+		"/D/Repository/mercurial/irunaround/static/scripts/lib/codemirror-3.12/lib/codemirror.css",
+		"/D/Repository/mercurial/irunaround/static/styles/jquery-ui.css",
+		"/D/Repository/mercurial/irunaround/static/styles/jquery-ui/flick.css",
+		"/D/Repository/mercurial/irunaround/static/styles/jquery-ui-flick.css",
+		"/D/Downloads/jquery-ui-1.10.2.custom/css/flick/jquery-ui-1.10.2.custom.css",
+		"/D/Downloads/codemirror-3.12/demo/theme.html",
+		"/D/Repository/mercurial/irunaround/static/scripts/lib/codemirror-3.0/lib/codemirror.js",
+		"/D/Downloads/codemirror-3.12/lib/codemirror.js",
+		"/D/Repository/mercurial/anotherbitmap/static/three.js-master/examples/webgl_loader_scene.html",
+		"/D/Repository/mercurial/irunaround/static/scripts/models/test_scene.js",
+		"/D/Repository/mercurial/anotherbitmap/static/three.js-master/examples/webgl_loader_json_blender.html",
+		"/D/Downloads/three.js-master/src/loaders/JSONLoader.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"env",
+			"console",
+			"funstack",
+			"getIdentifierText",
+			"identifier",
+			"getIdentifierValue",
+			"getIdentif",
+			"lookUpSearch",
+			"findIdentifierBox",
+			"getIdentifierText",
+			"getIdentifierValue",
+			"setIdentifierValue",
+			"module.reset",
+			"this.reset",
+			"robot = undefined",
+			"'\"'",
+			"expReduce",
+			"'\"'",
+			"\"'\"",
+			"300",
+			"duration",
+			"expPush",
+			"codeExamplesContainer",
+			"condeExamplesContainer	",
+			"disable",
+			"codeExamples",
+			"output",
+			"shadow",
+			"ffffff",
+			"inset",
+			"gotoPlatform",
+			"idName",
+			"lookUpBack",
+			"lookUpBAck",
+			"return",
+			"funstack",
+			"dalayedStep",
+			"askForInput",
+			"input",
+			"input	",
+			"self",
+			"actors",
+			"buttons",
+			"animationElapsed",
+			"self",
+			"start",
+			"elapsed",
+			"delta",
+			"getelapsed()",
+			"getDelta",
+			"animationElapsed",
+			"elapsedTime",
+			"elpsedTime",
+			"delta",
+			"start",
+			"Tween",
+			"tween",
+			"ui-icon-clock",
+			"icon",
+			"dark",
+			"only",
+			"read",
+			"disabled",
+			"#eeeeee",
+			"999999",
+			"shadow",
+			"eee8d5",
+			"CodeMirror-gutters",
+			"fdf6e3",
+			"play",
+			"timer",
+			"setDataInput",
+			"create",
+			"self",
+			"metal",
+			"parse",
+			"context",
+			"callbackProgress",
+			"callback",
+			"onStartClick",
+			"createLoadScene",
+			"robot",
+			"self",
+			"robot.run",
+			"run",
+			"return",
+			"gotoCenter",
+			"gotoBox",
+			"findIdentifierBox",
+			"setData",
+			"data",
+			"77",
+			"scopeSignText",
+			"function ScopePlatform",
+			"functionScopePlatform",
+			"ScopePlatform",
+			"makeTextTexture",
+			"platformDepthOffset",
+			"envLookup",
+			"FuncDec",
+			"grabLiteral",
+			"circle",
+			"lightSide",
+			"light",
+			"object",
+			"getChildByName",
+			".getChildByName()",
+			"console.log(ast.node.type + ' ' + ast.id);",
+			"console.log",
+			"robot",
+			"scopePlatform",
+			";\n",
+			"window",
+			"windows",
+			"robot",
+			"FunDec",
+			"this.constantsBox",
+			"speed",
+			"5000",
+			"stepWait",
+			"expPush",
+			"this.exp",
+			"1127647",
+			"drawCodeCaption",
+			"light",
+			"scopePlatform",
+			"stepWait",
+			"U2FsdGVkX19BxD4aZQhVTrUVEAgR95JSHiwpZ5i4uqy8mNe7HYMd+L4UODOA/luT\nUu1VimBXqt/X+81yS2C+5O8ElQ4V4l7NoEhznG2REJsjWOcMXRWLGfYIST73yt3+\n8QPayNrizsAoIlBZY5+KFCDhoZreEmhs2GpF+dUIm3n6hgD5PVOfzzbvVFLpZ7Qs\nmN5P4Eek25Ssz/TzyAaNAzCMGT3C4gZ1WyIedk2IuqA=\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"delayedStep",
+			"module",
+			"animationElapsed",
+			"constants",
+			"robot",
+			"ast",
+			"children",
+			"Tree(Node())",
+			"stmt",
+			"identifier",
+			"timeline.enqueue",
+			"timeline.push",
+			"node.type"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Documents/landoflisp/test.lsp",
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.crypto_error":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ctokens",
+				"irunaround/ctokens.py"
+			],
+			[
+				"cgrammar",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"world",
+				"static/scripts/irunaround.graphics.world.js"
+			],
+			[
+				"i",
+				"static/scripts/irunaround.js"
+			],
+			[
+				"tree",
+				"pymag_trees/gen.py"
+			],
+			[
+				"back",
+				"static/scripts/irunaround.backend.js"
+			],
+			[
+				"fron",
+				"irunaround/frontend.py"
+			],
+			[
+				"grammar",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"tokens",
+				"irunaround/ctokens.py"
+			],
+			[
+				"ba",
+				"static/scripts/irunaround.backend.js"
+			],
+			[
+				"backen",
+				"static/scripts/irunaround.backend.js"
+			],
+			[
+				"mainhtml",
+				"templates/main.html"
+			],
+			[
+				"backe",
+				"static/scripts/irunaround.backend.js"
+			],
+			[
+				"worl",
+				"static/scripts/irunaround.graphics.world.js"
+			],
+			[
+				"token",
+				"irunaround/ctokens.py"
+			],
+			[
+				"gramm",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"iru",
+				"static/scripts/irunaround.js"
+			],
+			[
+				"editor",
+				"static/scripts/irunaround.editor.js"
+			],
+			[
+				"html",
+				"templates/main.html"
+			],
+			[
+				"mianhtml",
+				"static/scripts/lib/codemirror-3.12/addon/hint/html-hint.js"
+			],
+			[
+				"mainjs",
+				"static/scripts/main.js"
+			],
+			[
+				"main.h",
+				"templates/main.html"
+			],
+			[
+				"backend",
+				"static/scripts/irunaround.backend.js"
+			],
+			[
+				"css",
+				"static/styles/main.css"
+			],
+			[
+				"grammr",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"gra",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"fr",
+				"irunaround/frontend.py"
+			],
+			[
+				"codem",
+				"static/scripts/lib/codemirror-3.12/lib/codemirror.css"
+			],
+			[
+				"so",
+				"static/scripts/lib/codemirror-3.12/theme/solarized.css"
+			],
+			[
+				"js",
+				"static/scripts/main.js"
+			],
+			[
+				"track",
+				"static/scripts/lib/threejs/controls/TrackballControls.js"
+			],
+			[
+				"twee",
+				"static/scripts/lib/tween.min.js"
+			],
+			[
+				"",
+				"static/scripts/irunaround.graphics.world.js"
+			],
+			[
+				"main",
+				"main.py"
+			],
+			[
+				"mainhtm",
+				"templates/main.html"
+			],
+			[
+				"irun",
+				"static/scripts/irunaround.js"
+			],
+			[
+				"ht",
+				"templates/main.html"
+			],
+			[
+				"graphi",
+				"static/scripts/irunaround.graphics.js"
+			],
+			[
+				"flycontrols",
+				"static/scripts/lib/threejs/controls/FlyControls.js"
+			],
+			[
+				"ma",
+				"main.py"
+			],
+			[
+				"graphics",
+				"static/scripts/irunaround.graphics.js"
+			],
+			[
+				"maincss",
+				"static/styles/main.css"
+			],
+			[
+				"mainpy",
+				"main.py"
+			],
+			[
+				"min",
+				"static/scripts/lib/tween.min.js"
+			],
+			[
+				"grap",
+				"static/scripts/irunaround.graphics.js"
+			],
+			[
+				"graph",
+				"static/scripts/irunaround.graphics.js"
+			],
+			[
+				"gram",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"h",
+				"templates/main.html"
+			],
+			[
+				"runa",
+				"static/scripts/irunaround.js"
+			],
+			[
+				"runaro",
+				"static/scripts/irunaround.js"
+			],
+			[
+				"maincc",
+				"static/scripts/lib/codemirror-3.0/theme/ambiance.css"
+			],
+			[
+				"bac",
+				"static/scripts/irunaround.backend.js"
+			],
+			[
+				"iruna",
+				"static/scripts/irunaround.js"
+			],
+			[
+				"gramar",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"front",
+				"irunaround/frontend.py"
+			],
+			[
+				"interpre",
+				"static/scripts/irunaround.interpreter.js"
+			],
+			[
+				"gr",
+				"irunaround/cgrammar.py"
+			],
+			[
+				"tok",
+				"irunaround/ctokens.py"
+			],
+			[
+				"con",
+				"/D/Repository/lel/web/js/controller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}
